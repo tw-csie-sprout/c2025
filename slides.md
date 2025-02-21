@@ -4,6 +4,11 @@
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
+| 課程介紹 |  |  |  |
+| Hello world |  |  |  |
+| 基礎IO、變數、運算子 |  | [Week1-2 I/O, Variable, Operator][hc-variable] |  |
+
+[hc-variable]: https://slides.com/gtcoding/sprout-2025-basis
 
 ## 第二週 03/01
 
