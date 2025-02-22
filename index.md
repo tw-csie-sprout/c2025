@@ -16,6 +16,6 @@
 
 階段考請務必到考，未到考者將無法獲得進入第二階段課程的資格
 
-如欲請假，請務必填寫請假表單。連結：TBA
+如欲請假，請務必填寫請假表單。[連結](https://docs.google.com/forms/d/e/1FAIpQLSeZpg9WHDDARLV-h_0xJhYjj8t9S3YQHtr1hVmqWHjw1Za_ig/viewform)
 
 需要注意的是計算出來的原始分數並**不**對應到最終成績，最終成績（傑出結業／結業／參加／未達及格分數）將依照課程整體同學的表現狀況決定。
