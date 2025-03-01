@@ -9,7 +9,7 @@
 | 基礎IO、變數、運算子 | [Week1-2 基礎IO、變數、運算子][tp-variable] | [Week1-2 I/O, Variable, Operator][hc-variable] | [北區影片][tp-variable-recording] [竹區影片][hc-variable-recording] |
 
 [tp-intro]: https://drive.google.com/file/d/1mcTvKUX_i5NQoPA7rdPAFyd31ZTe-q5F/view?usp=drivesdk
-[tp-helloworld]: https://drive.google.com/file/d/1W-hzg6NErMsejJxI2v6PxGJxFlqLDcoD/view?usp=drive_link
+[tp-helloworld]: https://drive.google.com/file/d/15o-S_U6pQQ5A-bTL8X8w-FUbK0WP3SBI/view?usp=sharing
 [tp-variable]: https://drive.google.com/file/d/1dx3pIq59s2c0jBNLJ4vjnZLwHYQddMh-/view?usp=sharing
 [tp-intro-recording]: https://youtube.com/live/KbKICz84gFE
 [tp-helloworld-recording]: https://youtu.be/w-tjrG6ZaSM
