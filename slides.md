@@ -27,8 +27,8 @@
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
-| 條件判斷 | [Week2-1 條件判斷][tp-conditionals] |  |  |
-| 迴圈 | [Week2-2 迴圈][tp-loop] |  |  |
+| 條件判斷 | [Week3-1 條件判斷][tp-conditionals] |  |  |
+| 迴圈 | [Week3-2 迴圈][tp-loop] |  |  |
 
 [tp-conditionals]: https://drive.google.com/file/d/1CUE_f9AIKsvMtzSP-zRseLhZctFtC6G2/view?usp=sharing
 [tp-loop]: https://slides.com/rain0130/loop_sprout_c2025
