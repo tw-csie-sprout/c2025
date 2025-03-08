@@ -6,7 +6,7 @@
 | ------------ | ----------------------------------------- | ---- | ---- |
 | 課程介紹 | [Week1-0 課程介紹][tp-intro] |  | [北區影片][tp-intro-recording] |
 | Hello world | [Week1-1 Hello, World!][tp-helloworld] |  | [北區影片][tp-helloworld-recording] |
-| 基礎IO、變數、運算子 | [Week1-2 基礎IO、變數、運算子][tp-variable] | [Week1-2 I/O, Variable, Operator][hc-variable] | [北區影片][tp-variable-recording] [竹區影片][hc-variable-recording] |
+| 基礎IO、變數、運算子 | [Week1-2 基礎IO、變數、運算子][tp-variable] | [Week1-2 I/O, Variable, Operator][hc-variable] | [北區影片][tp-variable-recording] <br> [竹區影片][hc-variable-recording] |
 
 [tp-intro]: https://drive.google.com/file/d/1mcTvKUX_i5NQoPA7rdPAFyd31ZTe-q5F/view?usp=drivesdk
 [tp-helloworld]: https://drive.google.com/file/d/15o-S_U6pQQ5A-bTL8X8w-FUbK0WP3SBI/view?usp=sharing
@@ -27,11 +27,12 @@
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
-| 條件判斷 | [Week3-1 條件判斷][tp-conditionals] |  |  |
+| 條件判斷 | [Week3-1 條件判斷][tp-conditionals] |  | [北區影片][tp-conditionals-recording] |
 | 迴圈 | [Week3-2 迴圈][tp-loop] |  |  |
 
 [tp-conditionals]: https://drive.google.com/file/d/1CUE_f9AIKsvMtzSP-zRseLhZctFtC6G2/view?usp=sharing
 [tp-loop]: https://slides.com/rain0130/loop_sprout_c2025
+[tp-conditionals-recording]: https://youtube.com/live/VSiH6nMZeAI
 
 ## 第四週 03/15
 
