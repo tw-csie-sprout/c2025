@@ -38,6 +38,10 @@
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
+| 陣列 |  |  |  |
+| 函數 | [Week4-2 函數][tp-function] |  |  |
+
+[tp-function]: https://drive.google.com/file/d/1rcB4U6jWVtVpbnlycv4oSKlDOUyYURUd/view?usp=sharing
 
 ## 第五週 03/22
 
