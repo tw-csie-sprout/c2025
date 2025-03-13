@@ -7,7 +7,7 @@
 | 0225 | 01 | [Week1 題單連結][wk1-contest] | [[算分]福祿猴的反敗][sprout-289] | [[算分]喵][sprout-287] | [芽芽停車場][sprout-515] |   |
 | 0301 | 02 | 228 連假 | |  |  |   |
 | 0308 | 03 | [Week3 題單連結][wk3-contest] | [[算分]三角形判斷][sprout-453] <br> [[算分]數字塔][sprout-564] | [[算分]我沒辦法AC都是13的錯][sprout-398] <br> [[算分]考拉茲猜想][sprout-428] | [排序了嗎？][sprout-776] <br> [皮卡丘打排球][sprout-660] <br> [耶誕舞會][sprout-592] <br> [季節判斷][sprout-189] <br> [複習九九乘法 - 2015][sprout-187] <br> [3n+1 Problem][sprout-201] <br> [生日矩陣][sprout-658] <br> [輾轉相除法(?)][sprout-681] |   |
-| 0315 | 04 |  | |  |  |   |
+| 0315 | 04 |  | [[算分]成績統計][sprout-207] | [[算分]娃娃魚的站位哲學][sprout-407] | [3n+1 Problem (II)][sprout-206] |   |
 | 0322 | 05 |  | |  |  |   |
 | 0329 | 06 |  | |  |  |   |
 | 0405 | 07 | 兒童清明連假 |  |  |   | |
@@ -43,3 +43,8 @@
 [sprout-201]: https://tioj.sprout.tw/contests/6/problems/201
 [sprout-658]: https://tioj.sprout.tw/contests/6/problems/658
 [sprout-681]: https://tioj.sprout.tw/contests/6/problems/681
+
+<!-- Week 4 -->
+[sprout-207]: https://tioj.sprout.tw/problems/207
+[sprout-407]: https://tioj.sprout.tw/problems/407
+[sprout-206]: https://tioj.sprout.tw/problems/206
