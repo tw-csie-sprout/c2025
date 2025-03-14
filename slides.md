@@ -38,7 +38,7 @@
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
-| 一維陣列 | [Week4-2 一維陣列][tp-1DArray-and-C-Style-String] |  |  |
+| 一維陣列 | [Week4-1 一維陣列][tp-1DArray-and-C-Style-String] |  |  |
 | 函數 | [Week4-2 函數][tp-function] |  |  |
 
 [tp-1DArray-and-C-Style-String]:https://drive.google.com/file/d/1Vz_HwuQTIGt1FlthfoBDd6SdRjuRsGiM/view?usp=drive_link
