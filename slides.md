@@ -38,9 +38,10 @@
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
-| 陣列 |  |  |  |
+| 一維陣列 | [Week4-2 一維陣列][tp-1DArray-and-C-Style-String] |  |  |
 | 函數 | [Week4-2 函數][tp-function] |  |  |
 
+[tp-1DArray-and-C-Style-String]:https://drive.google.com/file/d/1Vz_HwuQTIGt1FlthfoBDd6SdRjuRsGiM/view?usp=drive_link
 [tp-function]: https://drive.google.com/file/d/1rcB4U6jWVtVpbnlycv4oSKlDOUyYURUd/view?usp=sharing
 
 ## 第五週 03/22
