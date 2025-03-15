@@ -27,13 +27,15 @@
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
-| 條件判斷 | [Week3-1 條件判斷][tp-conditionals] |  | [北區影片][tp-conditionals-recording] |
-| 迴圈 | [Week3-2 迴圈][tp-loop] |  | [北區影片][tp-loop-recording] |
+| 條件判斷 | [Week3-1 條件判斷][tp-conditionals] | [Week3-1 條件判斷][hc-conditionals] | [北區影片][tp-conditionals-recording] |
+| 迴圈 | [Week3-2 迴圈][tp-loop] | [Week3-2 迴圈][hc-loop] | [北區影片][tp-loop-recording] |
 
 [tp-conditionals]: https://drive.google.com/file/d/1CUE_f9AIKsvMtzSP-zRseLhZctFtC6G2/view?usp=sharing
 [tp-loop]: https://slides.com/rain0130/loop_sprout_c2025
 [tp-conditionals-recording]: https://youtube.com/live/VSiH6nMZeAI
 [tp-loop-recording]: https://youtube.com/live/fBirgjacjvg
+[hc-conditionals]: https://drive.google.com/file/d/10Yg1w4NDnDxNMg5CeUqjtCU0z2G6LlcW/view?usp=drive_link
+[hc-loop]: https://drive.google.com/file/d/1d47yH7Xm7o12cZlxS3GkNrmE4_89OuJ5/view?usp=sharing
 
 ## 第四週 03/15
 
