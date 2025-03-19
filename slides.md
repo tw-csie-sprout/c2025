@@ -5,7 +5,7 @@
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
 | 課程介紹 | [Week1-0 課程介紹][tp-intro] | [Week1-0 課程介紹][hc-intro] | [北區影片][tp-intro-recording] <br> [竹區影片][hc-intro-recording] |
-| Hello world | [Week1-1 Hello, World!][tp-helloworld] | [Week1-1 Hello, World!][hc-helloworld] | [北區影片][tp-helloworld-recording] <br> [竹區影片][hc-helloworld-recording] |
+| Hello world | [Week1-1 Hello, World!][tp-helloworld] | [Week1-1 Hello, World!][hc-helloworld] | [北區影片][tp-helloworld-recording] |
 | 基礎IO、變數、運算子 | [Week1-2 基礎IO、變數、運算子][tp-variable] | [Week1-2 I/O, Variable, Operator][hc-variable] | [北區影片][tp-variable-recording] <br> [竹區影片][hc-variable-recording] |
 
 [tp-intro]: https://drive.google.com/file/d/1mcTvKUX_i5NQoPA7rdPAFyd31ZTe-q5F/view?usp=drivesdk
@@ -31,8 +31,8 @@
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
-| 條件判斷 | [Week3-1 條件判斷][tp-conditionals] | [Week3-1 條件判斷][hc-conditionals] | [北區影片][tp-conditionals-recording] <br> [竹區影片][hc-conditionals-recording] |
-| 迴圈 | [Week3-2 迴圈][tp-loop] | [Week3-2 迴圈][hc-loop] | [北區影片][tp-loop-recording] <br> [竹區影片][hc-loop-recording] |
+| 條件判斷 | [Week3-1 條件判斷][tp-conditionals] | [Week3-1 條件判斷][hc-conditionals] | [北區影片][tp-conditionals-recording] |
+| 迴圈 | [Week3-2 迴圈][tp-loop] | [Week3-2 迴圈][hc-loop] | [北區影片][tp-loop-recording] |
 
 [tp-conditionals]: https://drive.google.com/file/d/1CUE_f9AIKsvMtzSP-zRseLhZctFtC6G2/view?usp=sharing
 [tp-loop]: https://slides.com/rain0130/loop_sprout_c2025
@@ -47,8 +47,8 @@
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
-| 一維陣列 | [Week4-1 一維陣列][tp-1DArray-and-C-Style-String] | [Week4-1 一維陣列][hc-1DArray-and-C-Style-String] | <br> [竹區影片][hc-1DArray-and-C-Style-String-recording] |
-| 函數 | [Week4-2 函數][tp-function] | [Week4-2 函數][hc-function] | <br> [竹區影片][hc-function-recording] |
+| 一維陣列 | [Week4-1 一維陣列][tp-1DArray-and-C-Style-String] | [Week4-1 一維陣列][hc-1DArray-and-C-Style-String] | |
+| 函數 | [Week4-2 函數][tp-function] | [Week4-2 函數][hc-function] | |
 
 [tp-1DArray-and-C-Style-String]:https://drive.google.com/file/d/1Vz_HwuQTIGt1FlthfoBDd6SdRjuRsGiM/view?usp=drive_link
 [tp-function]: https://drive.google.com/file/d/1rcB4U6jWVtVpbnlycv4oSKlDOUyYURUd/view?usp=sharing
