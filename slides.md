@@ -5,7 +5,7 @@
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
 | 課程介紹 | [Week1-0 課程介紹][tp-intro] | [Week1-0 課程介紹][hc-intro] | [北區影片][tp-intro-recording] <br> [竹區影片][hc-intro-recording] |
-| Hello world | [Week1-1 Hello, World!][tp-helloworld] | [Week1-1 Hello, World!][hc-helloworld] | [北區影片][tp-helloworld-recording] |
+| Hello world | [Week1-1 Hello, World!][tp-helloworld] | [Week1-1 Hello, World!][hc-helloworld] | [北區影片][tp-helloworld-recording] <br> [竹區影片][hc-helloworld-recording] |
 | 基礎IO、變數、運算子 | [Week1-2 基礎IO、變數、運算子][tp-variable] | [Week1-2 I/O, Variable, Operator][hc-variable] | [北區影片][tp-variable-recording] <br> [竹區影片][hc-variable-recording] |
 
 [tp-intro]: https://drive.google.com/file/d/1mcTvKUX_i5NQoPA7rdPAFyd31ZTe-q5F/view?usp=drivesdk
@@ -17,7 +17,7 @@
 [hc-intro]: https://drive.google.com/file/d/1L5qhJTQfWMboetna9YpVWEc3-MrdA9Bd/view?usp=sharing
 [hc-helloworld]: https://drive.google.com/file/d/16Yy8iuxbFwFOuISCt3xGgkQTxk0dlEgE/view?usp=drive_link
 [hc-intro-recording]: https://youtu.be/0NahfeSp1Pg
-[hc-helloworld-recording]: 
+[hc-helloworld-recording]: https://youtu.be/SMe7u8Ya5SI
 [hc-variable]: https://slides.com/gtcoding/sprout-2025-basis
 [hc-variable-recording]: https://youtu.be/uHqwcunniOc
 
