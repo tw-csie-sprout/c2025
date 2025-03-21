@@ -63,9 +63,10 @@
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
-|多維陣列||||
+|多維陣列| [Week5-1 多維陣列][tp-nd-array] |||
 |C++ 字串|[Week5-2 C++ 字串][tp-c++-string]|||
 
+[tp-nd-array]: https://drive.google.com/file/d/14bnk0bJTpKj3xOLrAxddzSr9RDm1tjll/view?usp=drive_link
 [tp-c++-string]: https://drive.google.com/file/d/1LNFpm7w-9byjTFUdLgnkvKo-Yq6MOE-O/view?usp=drive_link
 
 ## 第六週 03/29
