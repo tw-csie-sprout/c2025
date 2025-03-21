@@ -47,8 +47,8 @@
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
-| 一維陣列 | [Week4-1 一維陣列][tp-1DArray-and-C-Style-String] | [Week4-1 一維陣列][hc-1DArray-and-C-Style-String] |[北區影片][tp-1DArray-and-C-Style-String-recording] |
-| 函數 | [Week4-2 函數][tp-function] | [Week4-2 函數][hc-function] |[北區影片][tp-function-recording] |
+| 一維陣列 | [Week4-1 一維陣列][tp-1DArray-and-C-Style-String] | [Week4-1 一維陣列][hc-1DArray-and-C-Style-String] |[北區影片][tp-1DArray-and-C-Style-String-recording] <br> [竹區影片][hc-1DArray-and-C-Style-String-recording] |
+| 函數 | [Week4-2 函數][tp-function] | [Week4-2 函數][hc-function] |[北區影片][tp-function-recording] <br> [竹區影片][hc-function-recording] |
 
 [tp-1DArray-and-C-Style-String]:https://drive.google.com/file/d/1Vz_HwuQTIGt1FlthfoBDd6SdRjuRsGiM/view?usp=drive_link
 [tp-function]: https://drive.google.com/file/d/1rcB4U6jWVtVpbnlycv4oSKlDOUyYURUd/view?usp=sharing
@@ -56,8 +56,8 @@
 [tp-function-recording]: https://youtube.com/live/1x0TMT69wIQ
 [hc-1DArray-and-C-Style-String]: https://drive.google.com/file/d/1IZxH_ZwCMyrbFLrRPfa3fdQvia_fZLpW/view?usp=drive_link
 [hc-function]: https://drive.google.com/file/d/1pDKno34jk8m0yid9vJVaDZOB_vhmztE-/view?usp=drive_link 
-[hc-1DArray-and-C-Style-String-recording]: 
-[hc-function-recording]: 
+[hc-1DArray-and-C-Style-String-recording]: https://youtu.be/dURFgvLSWyA
+[hc-function-recording]: https://youtu.be/eBK5RK9MxwQ
 
 ## 第五週 03/22
 
