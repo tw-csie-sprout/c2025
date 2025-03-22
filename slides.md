@@ -66,7 +66,7 @@
 |多維陣列| [Week5-1 多維陣列][tp-nd-array] | [Week5-1 多維陣列][hc-nd-array] ||
 |C++ 字串|[Week5-2 C++ 字串][tp-c++-string]| [Week5-2 C++ 字串][hc-c++-string] ||
 
-[tp-nd-array]: https://drive.google.com/file/d/14bnk0bJTpKj3xOLrAxddzSr9RDm1tjll/view?usp=drive_link
+[tp-nd-array]: https://drive.google.com/file/d/1meAq7SdteN8Q_UtIDpou9np_WHxbYvOd/view?usp=drive_link
 [tp-c++-string]: https://drive.google.com/file/d/1LNFpm7w-9byjTFUdLgnkvKo-Yq6MOE-O/view?usp=drive_link
 [hc-nd-array]: https://drive.google.com/file/d/188mkOuiJJQ8dLBwpv_nj_nOof_tIAs0O/view?usp=drive_link
 [hc-c++-string]: https://drive.google.com/file/d/10I1Lo2HkV7TZ5PpbtWXLBidrgKSWc_Oc/view?usp=drive_link
