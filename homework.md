@@ -8,7 +8,7 @@
 | 0301 | 02 | 228 連假 | |  |  |   |
 | 0308 | 03 | [Week3 題單連結][wk3-contest] | [[算分]三角形判斷][sprout-453] <br> [[算分]數字塔][sprout-564] | [[算分]我沒辦法AC都是13的錯][sprout-398] <br> [[算分]考拉茲猜想][sprout-428] | [排序了嗎？][sprout-776] <br> [皮卡丘打排球][sprout-660] <br> [耶誕舞會][sprout-592] <br> [季節判斷][sprout-189] <br> [複習九九乘法 - 2015][sprout-187] <br> [3n+1 Problem][sprout-201] <br> [生日矩陣][sprout-658] <br> [輾轉相除法(?)][sprout-681] |   |
 | 0315 | 04 | [Week4 題單連結][wk4-contest] | [[算分]小蘋果][sprout-448] <br> [[算分]訊息處理][sprout-655] <br> [[算分]成績統計][sprout-207] | [[算分]我愛零分][sprout-264] <br> [[算分]娃娃魚的站位哲學][sprout-407] | [σ．σ - 2015][sprout-190] <br> [凱薩密碼][sprout-198] <br> [維吉尼亞的統計學][sprout-574] <br> [3n+1 Problem (II)][sprout-206] |   |
-| 0322 | 05 |  | |  |  |   |
+| 0322 | 05 | [Week5 題單連結][wk5-contest] | [矩陣翻轉][sprout-617] [螺旋矩陣][sprout-588] [禮貌校園][sprout-388] | [踩地雷][sprout-195] [串接加法][sprout-1013] | [字串處理][sprout-656] [大十字][sprout-582] [魔王戰前夜 II - 迷宮探索][sprout-316] | |
 | 0329 | 06 |  | |  |  |   |
 | 0405 | 07 | 兒童清明連假 |  |  |   | |
 | 0412 | 08 |  | |  |  |   |
@@ -55,3 +55,14 @@
 [sprout-574]: https://tioj.sprout.tw/contests/12/problems/574
 [sprout-407]: https://tioj.sprout.tw/contests/12/problems/407
 [sprout-206]: https://tioj.sprout.tw/contests/12/problems/206
+
+<!-- Week 5 -->
+[wk5-contest]: https://tioj.sprout.tw/contests/14
+[sprout-617]: https://tioj.sprout.tw/contests/14/problems/617
+[sprout-588]: https://tioj.sprout.tw/contests/14/problems/588
+[sprout-195]: https://tioj.sprout.tw/contests/14/problems/195
+[sprout-582]: https://tioj.sprout.tw/contests/14/problems/582
+[sprout-316]: https://tioj.sprout.tw/contests/14/problems/316
+[sprout-388]: https://tioj.sprout.tw/contests/14/problems/388
+[sprout-1013]: https://tioj.sprout.tw/contests/14/problems/1013
+[sprout-656]: https://tioj.sprout.tw/contests/14/problems/656
