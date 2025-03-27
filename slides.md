@@ -77,7 +77,8 @@
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
-|結構 (struct)|[Week5-1 Struct][tp-struct] [Week5-1 全域變數][tp-global-variable]| | |
+|結構 (struct)|[Week5-1 Struct][tp-struct] <br> [Week5-1 全域變數][tp-global-variable]| | |
+
 [tp-struct]: https://drive.google.com/file/d/1zUPFGywaRIFiyZ69rsiQtlJIfApCYkt2/view?usp=drive_link
 [tp-global-variable]: https://drive.google.com/file/d/1RemI5y7IxGgzDpB2wnlZdSvZTcPWNMal/view?usp=drive_link
 
