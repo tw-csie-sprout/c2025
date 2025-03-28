@@ -63,7 +63,7 @@
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
-|多維陣列| [Week5-1 多維陣列][tp-nd-array] | [Week5-1 多維陣列][hc-nd-array] | [北區影片][tp-nd-array-recording] [竹區影片][hc-nd-array-recording] |
+|多維陣列| [Week5-1 多維陣列][tp-nd-array] | [Week5-1 多維陣列][hc-nd-array] | [北區影片][tp-nd-array-recording] <br> [竹區影片][hc-nd-array-recording] |
 |C++ 字串|[Week5-2 C++ 字串][tp-c++-string]| [Week5-2 C++ 字串][hc-c++-string] | [北區影片][tp-c++-string-recording] |
 
 [tp-nd-array]: https://drive.google.com/file/d/1meAq7SdteN8Q_UtIDpou9np_WHxbYvOd/view?usp=drive_link
