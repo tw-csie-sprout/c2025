@@ -63,20 +63,23 @@
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
-|多維陣列| [Week5-1 多維陣列][tp-nd-array] | [Week5-1 多維陣列][hc-nd-array] ||
-|C++ 字串|[Week5-2 C++ 字串][tp-c++-string]| [Week5-2 C++ 字串][hc-c++-string] ||
+|多維陣列| [Week5-1 多維陣列][tp-nd-array] | [Week5-1 多維陣列][hc-nd-array] | [北區影片][tp-nd-array-recording] |
+|C++ 字串|[Week5-2 C++ 字串][tp-c++-string]| [Week5-2 C++ 字串][hc-c++-string] | [北區影片][tp-c++-string-recording] |
 
 [tp-nd-array]: https://drive.google.com/file/d/1meAq7SdteN8Q_UtIDpou9np_WHxbYvOd/view?usp=drive_link
-[tp-c++-string]: https://drive.google.com/file/d/1LNFpm7w-9byjTFUdLgnkvKo-Yq6MOE-O/view?usp=drive_link
+[tp-c++-string]: https://drive.google.com/file/d/19MEIkhvBvUpcU2ZqmKLA0V8ZAx8U0tC7/view?usp=drive_link
 [hc-nd-array]: https://drive.google.com/file/d/188mkOuiJJQ8dLBwpv_nj_nOof_tIAs0O/view?usp=drive_link
-[hc-c++-string]: https://drive.google.com/file/d/10I1Lo2HkV7TZ5PpbtWXLBidrgKSWc_Oc/view?usp=drive_link 
+[hc-c++-string]: https://drive.google.com/file/d/10I1Lo2HkV7TZ5PpbtWXLBidrgKSWc_Oc/view?usp=drive_link
+[tp-nd-array-recording]: https://youtu.be/nSwjLhHqJIs
+[tp-c++-string-recording]: https://youtube.com/live/fjvPaRj98IY?feature=share
 ## 第六週 03/29
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
-| 結構體 |  | [Week 6-1 結構體][hc-struct] |  |
-| 大作業一 |  |  |  |
+|結構 (struct)|[Week5-1 Struct][tp-struct] <br> [Week5-1 全域變數][tp-global-variable]| [week6-1 Struct][hc-struct] | |
 
+[tp-struct]: https://drive.google.com/file/d/1zUPFGywaRIFiyZ69rsiQtlJIfApCYkt2/view?usp=drive_link
+[tp-global-variable]: https://drive.google.com/file/d/1RemI5y7IxGgzDpB2wnlZdSvZTcPWNMal/view?usp=drive_link
 [hc-struct]: https://drive.google.com/file/d/1HIzCu3i36N3dSCYRN4sr3Qkeee1LaeQS/view?usp=sharing
 ## 第七週 04/05
 
