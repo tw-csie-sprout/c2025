@@ -77,12 +77,13 @@
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
-|結構 (struct)|[Week6-1 Struct][tp-struct] <br> [Week6-1 全域變數][tp-global-variable]| [week6-1 Struct][hc-struct] | |
+|結構 (struct)|[Week6-1 Struct][tp-struct] <br> [Week6-1 全域變數][tp-global-variable]| [week6-1 Struct][hc-struct] | [北區影片][tp-struct-recording] |
 |大作業一| | | [講解影片][project-1-video] |
 
 [tp-struct]: https://drive.google.com/file/d/1zUPFGywaRIFiyZ69rsiQtlJIfApCYkt2/view?usp=drive_link
 [tp-global-variable]: https://drive.google.com/file/d/1RemI5y7IxGgzDpB2wnlZdSvZTcPWNMal/view?usp=drive_link
 [hc-struct]: https://drive.google.com/file/d/1x9g-rUVfn-tu5P97ue4c36kQYALGLNPn/view?usp=sharing
+[tp-struct-recording]: https://youtube.com/live/5gAWfXs2dvI
 [project-1-video]: https://youtube.com/live/bNmvEtJyuCc
 
 
