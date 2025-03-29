@@ -16,7 +16,5 @@
 
 [歷年網站]()
 
-  * [SubMenu Item 1](www.google.com)
-  * [SubMenu Item 2](index.md)
-
-[gimmick:themechooser](Choose theme)
+  * [C2024](https://tw-csie-sprout.github.io/c2024/#!index.md)
+  * [C2023](https://tw-csie-sprout.github.io/c2023/#!index.md)
