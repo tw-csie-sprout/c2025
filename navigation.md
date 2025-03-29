@@ -16,7 +16,7 @@
 
 [歷年網站]()
 
-  * [SubMenu Item 1](index.md)
+  * [SubMenu Item 1](www.google.com)
   * [SubMenu Item 2](index.md)
 
 [gimmick:themechooser](Choose theme)
