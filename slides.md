@@ -64,7 +64,7 @@
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
 |多維陣列| [Week5-1 多維陣列][tp-nd-array] | [Week5-1 多維陣列][hc-nd-array] | [北區影片][tp-nd-array-recording] <br> [竹區影片][hc-nd-array-recording] |
-|C++ 字串|[Week5-2 C++ 字串][tp-c++-string]| [Week5-2 C++ 字串][hc-c++-string] | [北區影片][tp-c++-string-recording] |
+|C++ 字串|[Week5-2 C++ 字串][tp-c++-string]| [Week5-2 C++ 字串][hc-c++-string] | [北區影片][tp-c++-string-recording] <br> [竹區影片][hc-c++-string-recording] |
 
 [tp-nd-array]: https://drive.google.com/file/d/1meAq7SdteN8Q_UtIDpou9np_WHxbYvOd/view?usp=drive_link
 [tp-c++-string]: https://drive.google.com/file/d/19MEIkhvBvUpcU2ZqmKLA0V8ZAx8U0tC7/view?usp=drive_link
@@ -73,11 +73,12 @@
 [tp-nd-array-recording]: https://youtu.be/nSwjLhHqJIs
 [tp-c++-string-recording]: https://youtube.com/live/fjvPaRj98IY?feature=share
 [hc-nd-array-recording]: https://youtu.be/47WpkUyIS_g
+[hc-c++-string-recording]: https://youtu.be/_T76eAGNXXs
 ## 第六週 03/29
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
-|結構 (struct)|[Week6-1 Struct][tp-struct] <br> [Week6-1 全域變數][tp-global-variable]| [week6-1 Struct][hc-struct] | [北區影片][tp-struct-recording] |
+|結構 (struct)|[Week6-1 Struct][tp-struct] <br> [Week6-1 全域變數][tp-global-variable]| [week6-1 Struct][hc-struct] | [北區影片][tp-struct-recording] <br> [竹區影片][hc-struct-recording]|
 |大作業一| | | [講解影片][project-1-video] |
 
 [tp-struct]: https://drive.google.com/file/d/1zUPFGywaRIFiyZ69rsiQtlJIfApCYkt2/view?usp=drive_link
@@ -85,7 +86,7 @@
 [hc-struct]: https://drive.google.com/file/d/1x9g-rUVfn-tu5P97ue4c36kQYALGLNPn/view?usp=sharing
 [tp-struct-recording]: https://youtube.com/live/5gAWfXs2dvI
 [project-1-video]: https://youtube.com/live/bNmvEtJyuCc
-
+[hc-struct-recording]: https://youtu.be/5xrS9ZElrpE
 
 ## 第七週 04/05
 
