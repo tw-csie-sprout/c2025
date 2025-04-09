@@ -98,6 +98,10 @@
 
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
+|標頭檔與巨集| [Week8-1 標頭檔、巨集與隨機][tp-headerfile&macro] | | |
+|遞迴| | | |
+
+[tp-headerfile&macro]: https://drive.google.com/file/d/1nVQ0ivsWDjN73bGeI0VMYH5JdKM6r4dW/view?usp=drive_link
 
 ## 第九週 04/19
 
