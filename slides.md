@@ -99,9 +99,11 @@
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
 |標頭檔與巨集| [Week8-1 標頭檔、巨集與隨機][tp-headerfile&macro] | | |
-|遞迴| | | |
+|遞迴| [Week8-2 遞迴][tp-recursion] | | [北區影片][tp-recursion-recording] |
 
 [tp-headerfile&macro]: https://drive.google.com/file/d/1nVQ0ivsWDjN73bGeI0VMYH5JdKM6r4dW/view?usp=drive_link
+[tp-recursion]: https://drive.google.com/file/d/1NLmzjxkY_I8BLhvyXrM6BZamfEKrWtYP/view?usp=drive_link
+[tp-recursion-recording]: https://www.youtube.com/watch?v=IYPtqCiziNo
 
 ## 第九週 04/19
 
