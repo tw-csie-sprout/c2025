@@ -98,12 +98,14 @@
 
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
-|標頭檔與巨集| [Week8-1 標頭檔、巨集與隨機][tp-headerfile&macro] | | |
-|遞迴| [Week8-2 遞迴][tp-recursion] | | [北區影片][tp-recursion-recording] |
+|標頭檔與巨集| [Week8-1 標頭檔、巨集與隨機][tp-headerfile&macro] | [Week8-1 標頭檔、巨集與隨機][hc-headerfile&macro] | |
+|遞迴| [Week8-2 遞迴][tp-recursion] | [Week8-2 遞迴][hc-recursion] | [北區影片][tp-recursion-recording] |
 
 [tp-headerfile&macro]: https://drive.google.com/file/d/1nVQ0ivsWDjN73bGeI0VMYH5JdKM6r4dW/view?usp=drive_link
 [tp-recursion]: https://drive.google.com/file/d/1NLmzjxkY_I8BLhvyXrM6BZamfEKrWtYP/view?usp=drive_link
 [tp-recursion-recording]: https://www.youtube.com/watch?v=IYPtqCiziNo
+[hc-headerfile&macro]: https://drive.google.com/file/d/13T0ObBsBj_LrbBgCL9Kq04Fx2orTptyu/view?usp=drive_link
+[hc-recursion]: https://drive.google.com/file/d/1AfGzhKDAYC4h-tYyc0q1vqbw9YwEimFn/view?usp=sharing
 
 ## 第九週 04/19
 
