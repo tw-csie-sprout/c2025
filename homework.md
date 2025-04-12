@@ -76,6 +76,7 @@
 
 <!-- Week 8 -->
 [wk8-contest]: https://tioj.sprout.tw/contests/19
+[sprout-319]: https://tioj.sprout.tw/contests/19/problems/319
 [sprout-441]: https://tioj.sprout.tw/contests/19/problems/441
 [sprout-1024]: https://tioj.sprout.tw/contests/19/problems/1024
 [sprout-645]: https://tioj.sprout.tw/contests/19/problems/645
