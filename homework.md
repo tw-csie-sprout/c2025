@@ -11,7 +11,7 @@
 | 0322 | 05 | [Week5 題單連結][wk5-contest] | [[算分]矩陣翻轉][sprout-617] <br> [[算分]螺旋矩陣][sprout-588] <br> [[算分]禮貌校園][sprout-388] | [[算分]踩地雷][sprout-195] <br> [[算分]串接加法][sprout-1013] | [字串處理][sprout-656] <br> [大十字][sprout-582] <br> [魔王戰前夜 II - 迷宮探索][sprout-316] | |
 | 0329 | 06 |  [Week6 題單連結][wk6-contest] | [[算分]成績統計II][sprout-566] | [[算分]電話銷售員][sprout-333] | [愁眉苦臉的小暄和懶惰的 Ruby][sprout-561] <br> [Sprouty Mart][sprout-585] |   |
 | 0405 | 07 | 兒童清明連假 |  |  |   | |
-| 0412 | 08 | [Week8 題單連結][wk8-contest] | |  |  |   |
+| 0412 | 08 | [Week8 題單連結][wk8-contest] | [[算分]巴斯卡三角形][sprout-319] | [[算分]小普刷油漆][sprout-441] <br> [[算分]記憶中的遞迴關係式][sprout-1024] |  | [[算分]無聊的小明][sprout-645] <br> [[算分]格雷碼][sprout-1025] <br> [[算分]河內之塔][sprout-140]  |
 | 0419 | 09 |  | |  |  |   |
 | 0426 | 10 |  | |  |  |   |
 | 0503 | 11 |  | |  |  |   |
@@ -76,3 +76,8 @@
 
 <!-- Week 8 -->
 [wk8-contest]: https://tioj.sprout.tw/contests/19
+[sprout-441]: https://tioj.sprout.tw/contests/19/problems/441
+[sprout-1024]: https://tioj.sprout.tw/contests/19/problems/1024
+[sprout-645]: https://tioj.sprout.tw/contests/19/problems/645
+[sprout-1025]: https://tioj.sprout.tw/contests/19/problems/1025
+[sprout-140]: https://tioj.sprout.tw/contests/19/problems/140
