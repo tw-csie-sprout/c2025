@@ -99,7 +99,7 @@
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
 |標頭檔與巨集| [Week8-1 標頭檔、巨集與隨機][tp-headerfile&macro] | [Week8-1 標頭檔、巨集][hc-headerfile&macro] | [北區上下半堂上課影片][tp-headerfile&macro-recording] <br> [竹區影片][hc-headerfile&macro-recording]|
-|遞迴| [Week8-2 遞迴][tp-recursion] | [Week8-2 遞迴][hc-recursion] | [北區影片][tp-recursion-recording] |
+|遞迴| [Week8-2 遞迴][tp-recursion] | [Week8-2 遞迴][hc-recursion] | [北區影片][tp-recursion-recording] <br> [竹區影片][hc-recursion-recording]|
 
 [tp-headerfile&macro]: https://drive.google.com/file/d/1nVQ0ivsWDjN73bGeI0VMYH5JdKM6r4dW/view?usp=drive_link
 [tp-headerfile&macro-recording]: https://youtube.com/live/zKQSOkca2gk
@@ -108,7 +108,7 @@
 [hc-headerfile&macro]: https://drive.google.com/file/d/13T0ObBsBj_LrbBgCL9Kq04Fx2orTptyu/view?usp=drive_link
 [hc-headerfile&macro-recording]: https://youtu.be/nAItyUfpD2M
 [hc-recursion]: https://drive.google.com/file/d/1AfGzhKDAYC4h-tYyc0q1vqbw9YwEimFn/view?usp=sharing
-
+[hc-recursion-recording]: https://youtu.be/-h1cF6joHd0
 ## 第九週 04/19
 
 | 主題     | 北區            | 竹區 | 影片 |
