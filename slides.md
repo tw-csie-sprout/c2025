@@ -113,10 +113,11 @@
 
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
-|記憶體、位元運算與雜談 | | | |
+|記憶體、位元運算與雜談 | [Week9-1 記憶體、位元運算與雜談][tp-memory] | | |
 | 階段考複習| [Week9-2 階段考複習][tp-review]| | |
 
 [tp-review]: https://drive.google.com/file/d/1_21_BxUZrVfXg9vM-VPW7FdE9nHKNiFo/view?usp=sharing
+[tp-memory]: https://slides.com/rain0130/memory_bits_others_sprout_c2025
 
 ## 第十週 04/26
 
