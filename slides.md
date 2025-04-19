@@ -8,7 +8,7 @@
 | Hello world | [Week1-1 Hello, World!][tp-helloworld] | [Week1-1 Hello, World!][hc-helloworld] | [北區影片][tp-helloworld-recording] <br> [竹區影片][hc-helloworld-recording] |
 | 基礎IO、變數、運算子 | [Week1-2 基礎IO、變數、運算子][tp-variable] | [Week1-2 I/O, Variable, Operator][hc-variable] | [北區影片][tp-variable-recording] <br> [竹區影片][hc-variable-recording] |
 
-[tp-intro]: https://drive.google.com/file/d/1mcTvKUX_i5NQoPA7rdPAFyd31ZTe-q5F/view?usp=drivesdk
+[tp-intro]: https://drive.google.com/file/d/1Llp4z845Lx8HnHmsVUG1zKrcAYYQCMUG/view?usp=share_link
 [tp-helloworld]: https://drive.google.com/file/d/15o-S_U6pQQ5A-bTL8X8w-FUbK0WP3SBI/view?usp=sharing
 [tp-variable]: https://drive.google.com/file/d/1dx3pIq59s2c0jBNLJ4vjnZLwHYQddMh-/view?usp=sharing
 [tp-intro-recording]: https://youtube.com/live/KbKICz84gFE
