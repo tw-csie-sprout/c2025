@@ -113,13 +113,15 @@
 
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
-|記憶體、位元運算與雜談 | [Week9-1 記憶體、位元運算與雜談][tp-memory] | | [北區影片][tp-memory-recording] |
-| 階段考複習| [Week9-2 階段考複習][tp-review]| | |
+|記憶體、位元運算與雜談 | [Week9-1 記憶體、位元運算與雜談][tp-memory] | [Week9-1 記憶體、位元運算與雜談][hc-memory] | [北區影片][tp-memory-recording] |
+| 階段考複習| [Week9-2 階段考複習][tp-review]| [Week9-2 階段考複習][hc-review] | |
 
 [tp-review]: https://drive.google.com/file/d/1GWtORvU8PJYoTanFIw2LdhupW4GbRSki/view?usp=sharing
 [tp-memory]: https://slides.com/rain0130/memory_bits_others_sprout_c2025
-
+[hc-review]: https://drive.google.com/file/d/1-Ms_sg9xydAHuWd0ic2Bms1aQmnZ9Juq/view?usp=sharing
+[hc-memory]: https://drive.google.com/file/d/1LMRln6X8yVwvT0vsx1OVKZKFpCTB_keZ/view?usp=sharing
 [tp-memory-recording]: https://www.youtube.com/live/ajQy-70R-CM?feature=shared
+<!-- [hc-memory-recording]:  -->
 
 ## 第十週 04/26
 
