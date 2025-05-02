@@ -13,8 +13,8 @@
 | 0405 | 07 | 兒童清明連假 |  |  |   | |
 | 0412 | 08 | [Week8 題單連結][wk8-contest] | [[算分]巴斯卡三角形][sprout-319] | [[算分]小普刷油漆][sprout-441] <br> [[算分]記憶中的遞迴關係式][sprout-1024] | [無聊的小明][sprout-645] <br> [格雷碼][sprout-1025] <br> [河內之塔][sprout-140]  |  |
 | 0419 | 09 | 本週無作業 | |  |  |   |
-| 0426 | 10 |  | |  |  |   |
-| 0503 | 11 |  | |  |  |   |
+| 0426 | 10 | 第一階段階段考 | |  |  |   |
+| 0503 | 11 | [Week11 題單連結][wk11-contest] | [[算分]stack 練習][sprout-35] <br> [[算分]queue 練習][sprout-36] <br> [[算分]萬人迷孟孟][sprout-766] | [大善人老闆救濟東南亞兒童][sprout-18] | [撲克牌排序問題][sprout-605] | 請參見題單 |
 | 0510 | 12 |  | |  |  |   |
 | 0517 | 13 |  | |  |  |   |
 | 0524 | 14 |  | |  |  |   |
@@ -82,3 +82,12 @@
 [sprout-645]: https://tioj.sprout.tw/contests/19/problems/645
 [sprout-1025]: https://tioj.sprout.tw/contests/19/problems/1025
 [sprout-140]: https://tioj.sprout.tw/contests/19/problems/140
+
+<!-- Week 11-->
+[wk11-contest]: https://tioj.sprout.tw/contests/25
+[sprout-35]: https://tioj.sprout.tw/contests/25/problems/35
+[sprout-36]: https://tioj.sprout.tw/contests/25/problems/36
+[sprout-766]: https://tioj.sprout.tw/contests/25/problems/766
+[sprout-18]: https://tioj.sprout.tw/contests/25/problems/18
+[sprout-605]: https://tioj.sprout.tw/contests/25/problems/605
+
