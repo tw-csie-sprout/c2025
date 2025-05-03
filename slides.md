@@ -135,9 +135,10 @@
 
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
-| STL | [Week11 STL][tp-stl] |  | |
+| STL | [Week11 STL][tp-stl] |  | [北區影片][tp-stl-recording] |
 
 [tp-stl]: https://drive.google.com/file/d/17_XZpFBCBDylMn-iTqIgGFSZV33xg4eU/view
+[tp-stl-recording]: https://youtube.com/live/l4nchSBP-SU
 
 ## 第十二週 05/10
 
