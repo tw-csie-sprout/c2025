@@ -147,6 +147,12 @@
 
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
+| Enum, Class | [Week12 Enum, Class, Template][tp-class] | | [北區影片 (上下同一個)][tp-wk12-recording] |
+| OOP   | [Week12 OOP][tp-oop] | | |
+
+[tp-class]: https://drive.google.com/file/d/1Y4q9gMluAUndZaeyvEdc7ECqx-C7hJ5R/view?usp=sharing
+[tp-oop]: https://drive.google.com/file/d/1liMVfDn16KpV06mxbFEF52ucwLztdDiy/view?usp=sharing
+[tp-wk12-recording]: https://www.youtube.com/watch?v=ODdZcxog7-Y
 
 ## 第十三週 05/17
 
