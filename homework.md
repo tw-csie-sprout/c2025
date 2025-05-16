@@ -16,7 +16,7 @@
 | 0426 | 10 | 第一階段階段考 | |  |  |   |
 | 0503 | 11 | [Week11 題單連結][wk11-contest] | [[算分]stack 練習][sprout-35] <br> [[算分]queue 練習][sprout-36] <br> [[算分]萬人迷孟孟][sprout-766] | [[算分]大善人老闆救濟東南亞兒童][sprout-18] <br> [[算分]撲克牌排序問題][sprout-605] | 請參見題單 | |
 | 0510 | 12 |  | |  |  |   |
-| 0517 | 13 |  | |  |  |   |
+| 0517 | 13 | [Week13 題單連結][wk13-contest] | [[算分]數字雜訊去除][sprout-1050] <br> [[算分]成績比較][sprout-1051] |   [[算分]百數表][sprout-1049] | |   |
 | 0524 | 14 |  | |  |  |   |
 | 0531 | 15 | 端午連假 |  |  |   | |
 | 0607 | 16 |  | |  |  |   |
@@ -91,3 +91,8 @@
 [sprout-18]: https://tioj.sprout.tw/contests/25/problems/18
 [sprout-605]: https://tioj.sprout.tw/contests/25/problems/605
 
+<!-- Week 13-->
+[wk13-contest]: https://tioj.sprout.tw/contests/29
+[sprout-1049]: https://tioj.sprout.tw/contests/29/problems/1049
+[sprout-1050]: https://tioj.sprout.tw/contests/29/problems/1050
+[sprout-1051]: https://tioj.sprout.tw/contests/29/problems/1051
