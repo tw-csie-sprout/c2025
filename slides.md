@@ -158,7 +158,7 @@
 
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
-|fstream、sstream| [Week13 Stream][tp-stream] | | 北區影片][tp-stream-recording] |
+|fstream、sstream| [Week13 Stream][tp-stream] | | [北區影片][tp-stream-recording] |
 |大作業二-1| | | |
 
 [tp-stream]: https://drive.google.com/file/d/1ddqNyg1amnmZkwZEqhA_mZQyeQO4vb2s/view?usp=drive_link
