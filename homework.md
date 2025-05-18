@@ -15,7 +15,7 @@
 | 0419 | 09 | 本週無作業 | |  |  |   |
 | 0426 | 10 | 第一階段階段考 | |  |  |   |
 | 0503 | 11 | [Week11 題單連結][wk11-contest] | [[算分]stack 練習][sprout-35] <br> [[算分]queue 練習][sprout-36] <br> [[算分]萬人迷孟孟][sprout-766] | [[算分]大善人老闆救濟東南亞兒童][sprout-18] <br> [[算分]撲克牌排序問題][sprout-605] | 請參見題單 | |
-| 0510 | 12 |  | |  |  |   |
+| 0510 | 12 | [Week12 題單連結][wk12-contest] | [[算分]class + enum 練習題][sprout-1047] <br> [[算分]Inheritance & Polymorphism 練習][sprout-1048] | [[算分]class存取權限練習][sprout-446] | [class + template 混合練習題][sprout-447] <br> [template練習][sprout-446] <br> [以template實作stack][sprout-393] |   |
 | 0517 | 13 | [Week13 題單連結][wk13-contest] | [[算分]數字雜訊去除][sprout-1050] <br> [[算分]成績比較][sprout-1051] |   [[算分]百數表][sprout-1049] | |   |
 | 0524 | 14 |  | |  |  |   |
 | 0531 | 15 | 端午連假 |  |  |   | |
@@ -90,6 +90,15 @@
 [sprout-766]: https://tioj.sprout.tw/contests/25/problems/766
 [sprout-18]: https://tioj.sprout.tw/contests/25/problems/18
 [sprout-605]: https://tioj.sprout.tw/contests/25/problems/605
+
+<!-- Week 12-->
+[wk12-contest]: https://tioj.sprout.tw/contests/27
+[sprout-1047]: https://tioj.sprout.tw/contests/27/problems/1047
+[sprout-1048]: https://tioj.sprout.tw/contests/27/problems/1048
+[sprout-446]: https://tioj.sprout.tw/contests/27/problems/446
+[sprout-447]: https://tioj.sprout.tw/contests/27/problems/447
+[sprout-445]: https://tioj.sprout.tw/contests/27/problems/445
+[sprout-393]: https://tioj.sprout.tw/contests/27/problems/393
 
 <!-- Week 13-->
 [wk13-contest]: https://tioj.sprout.tw/contests/29
