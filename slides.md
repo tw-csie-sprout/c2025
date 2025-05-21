@@ -74,6 +74,7 @@
 [tp-c++-string-recording]: https://youtube.com/live/fjvPaRj98IY?feature=share
 [hc-nd-array-recording]: https://youtu.be/47WpkUyIS_g
 [hc-c++-string-recording]: https://youtu.be/_T76eAGNXXs
+
 ## 第六週 03/29
 
 | 主題         | 北區                                      | 竹區 | 影片 |
@@ -109,6 +110,7 @@
 [hc-headerfile&macro-recording]: https://youtu.be/nAItyUfpD2M
 [hc-recursion]: https://drive.google.com/file/d/1AfGzhKDAYC4h-tYyc0q1vqbw9YwEimFn/view?usp=sharing
 [hc-recursion-recording]: https://youtu.be/-h1cF6joHd0
+
 ## 第九週 04/19
 
 | 主題     | 北區            | 竹區 | 影片 |
@@ -159,11 +161,11 @@
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
 |fstream、sstream| [Week13 Stream][tp-stream] | | [北區影片][tp-stream-recording] |
-|大作業二-1| | | |
+|大作業二-1| | | [講解影片][project2-part1-recording] |
 
 [tp-stream]: https://drive.google.com/file/d/1ddqNyg1amnmZkwZEqhA_mZQyeQO4vb2s/view?usp=drive_link
-
 [tp-stream-recording]: https://www.youtube.com/live/vPHdgikBRLY
+[project2-part1-recording]: https://www.youtube.com/watch?v=UnMncpwgxdE
 
 ## 第十四週 05/24
 

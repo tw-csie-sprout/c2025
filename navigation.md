@@ -10,7 +10,7 @@
 
 [大作業一](project1.md)
 
-[大作業二 (監修中)](project2.md)
+[大作業二](project2.md)
 
 [線上批改系統](https://tioj.sprout.tw/)
 
