@@ -55,7 +55,7 @@
 [tp-1DArray-and-C-Style-String-recording]: https://www.youtube.com/live/l3AQEv5y3CA
 [tp-function-recording]: https://youtube.com/live/1x0TMT69wIQ
 [hc-1DArray-and-C-Style-String]: https://drive.google.com/file/d/1IZxH_ZwCMyrbFLrRPfa3fdQvia_fZLpW/view?usp=drive_link
-[hc-function]: https://drive.google.com/file/d/1pDKno34jk8m0yid9vJVaDZOB_vhmztE-/view?usp=drive_link 
+[hc-function]: https://drive.google.com/file/d/1pDKno34jk8m0yid9vJVaDZOB_vhmztE-/view?usp=drive_link
 [hc-1DArray-and-C-Style-String-recording]: https://youtu.be/dURFgvLSWyA
 [hc-function-recording]: https://youtu.be/eBK5RK9MxwQ
 
@@ -137,7 +137,7 @@
 
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
-| STL | [Week11 STL][tp-stl] | [Week11 STL Containers][hc-stl-containers] | [北區影片][tp-stl-recording] | 
+| STL | [Week11 STL][tp-stl] | [Week11 STL Containers][hc-stl-containers] | [北區影片][tp-stl-recording] |
 |     |                      | [Week11 STL Functions][hc-stl-functions] | |
 
 [tp-stl]: https://drive.google.com/file/d/17_XZpFBCBDylMn-iTqIgGFSZV33xg4eU/view
@@ -172,9 +172,13 @@
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
 | 指標    | [Week14 Pointer][tp-pointer] | [Week14 Pointer][hc-pointer] | |
+| 大作業二-2 | [Week14 大作業二-2][project2-part2] | | [影片][project2-part2-recording] |
 
 [tp-pointer]: https://slides.com/rain0130/pointer_sprout_c2025
 [hc-pointer]: https://drive.google.com/file/d/1FSDUKXxBdNaJRtwerXzW7R6DjqYm8o6x/view?usp=sharing
+[project2-part2]: https://drive.google.com/file/d/18VUkvRGC8uBFKGlam5KcNV1yh2pTDyAv/view?usp=sharing
+[project2-part2-recording]: https://www.youtube.com/live/iLmSdCCrqEo
+
 ## 第十五週 05/31
 
 | 主題     | 北區            | 竹區 | 影片 |
