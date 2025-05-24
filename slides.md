@@ -171,9 +171,10 @@
 
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
-| 指標    | [Week14 Pointer][tp-pointer]
+| 指標    | [Week14 Pointer][tp-pointer] | [Week14 Pointer][hc-pointer] | |
 
 [tp-pointer]: https://slides.com/rain0130/pointer_sprout_c2025
+[hc-pointer]: https://drive.google.com/file/d/1FSDUKXxBdNaJRtwerXzW7R6DjqYm8o6x/view?usp=sharing
 ## 第十五週 05/31
 
 | 主題     | 北區            | 竹區 | 影片 |
