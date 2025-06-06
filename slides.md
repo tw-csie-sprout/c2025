@@ -188,6 +188,10 @@
 
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
+| 排序和複雜度|  | [Week16 Sorting & Complexity][hc-sorting] | |
+| 大作業二-3 |  | | |
+
+[hc-sorting]: https://drive.google.com/file/d/108_8gwQdZeEp45RLtzkIQbdrpesTd152/view?usp=sharing
 
 ## 第十七週 06/14
 
