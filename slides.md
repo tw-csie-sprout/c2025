@@ -201,9 +201,10 @@
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
 | 枚舉 | [Week17 Enumeration][tp-enum] | | |
-| 回顧與展望 | | | |
+| 回顧與展望 | [Week17 Review and Outlook][tp-outlook] | | |
 
 [tp-enum]: https://drive.google.com/file/d/10AAx9ODU_j7YVNELM4Dfl7uJ1IP3f7jh/view
+[tp-outlook]: https://drive.google.com/file/d/1MsdJu1S-Ky72nYQTP8uo4U_3l3sIU2oN/view?usp=drive_link
 
 ## 第十八週 06/21
 
