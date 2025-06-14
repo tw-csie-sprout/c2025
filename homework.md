@@ -17,10 +17,10 @@
 | 0503 | 11 | [Week11 題單連結][wk11-contest] | [[算分]stack 練習][sprout-35] <br> [[算分]queue 練習][sprout-36] <br> [[算分]萬人迷孟孟][sprout-766] | [[算分]大善人老闆救濟東南亞兒童][sprout-18] <br> [[算分]撲克牌排序問題][sprout-605] | 請參見題單 | |
 | 0510 | 12 | [Week12 題單連結][wk12-contest] | [[算分]class + enum 練習題][sprout-1047] <br> [[算分]Inheritance & Polymorphism 練習][sprout-1048] | [[算分]class存取權限練習][sprout-446] | [class + template 混合練習題][sprout-447] <br> [template練習][sprout-446] <br> [以template實作stack][sprout-393] |   |
 | 0517 | 13 | [Week13 題單連結][wk13-contest] | [[算分]數字雜訊去除][sprout-1050] <br> [[算分]成績比較][sprout-1051] |   [[算分]百數表][sprout-1049] | |   |
-| 0524 | 14 |  | |  |  |   |
+| 0524 | 14 | [Week14 題單連結][wk14-contest] | |  |  |   |
 | 0531 | 15 | 端午連假 |  |  |   | |
-| 0607 | 16 |  | |  |  |   |
-| 0614 | 17 |  | |  |  |   |
+| 0607 | 16 | [Week16 題單連結][wk16-contest] | |  |  |   |
+| 0614 | 17 | [Week17 題單連結][wk17-contest] | |  |  |   |
 | 0621 | 18 |  | |  |  |   |
 
 <!-- Week 1 -->
@@ -105,3 +105,12 @@
 [sprout-1049]: https://tioj.sprout.tw/contests/29/problems/1049
 [sprout-1050]: https://tioj.sprout.tw/contests/29/problems/1050
 [sprout-1051]: https://tioj.sprout.tw/contests/29/problems/1051
+
+<!-- Week 14-->
+[wk14-contest]: https://tioj.sprout.tw/contests/31
+
+<!-- Week 16-->
+[wk16-contest]: https://tioj.sprout.tw/contests/33
+
+<!-- Week 17-->
+[wk17-contest]: https://tioj.sprout.tw/contests/36
