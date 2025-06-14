@@ -190,11 +190,13 @@
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
 | 排序和複雜度| [Week16 Sorting & Complexity][tp-sorting] | [Week16 Sorting & Complexity][hc-sorting] |[北區影片][tp-sorting-recording] |
-| 大作業二-3 |  | | |
+| 大作業二-3 | [Week 16 大作業二-3][project2-part3] | | [影片][project2-part3-recording] |
 
 [hc-sorting]: https://drive.google.com/file/d/108_8gwQdZeEp45RLtzkIQbdrpesTd152/view?usp=sharing
 [tp-sorting]: https://drive.google.com/file/d/15Ptq3wT_31aFxGHqhbfywC3xqdcqBPZF/view?usp=sharing
 [tp-sorting-recording]: https://youtube.com/live/7tPtswWEBR8?feature=share
+[project2-part3]: https://drive.google.com/file/d/1JVdhPDu3-ajuU3paZLzYnkTQ6UOOcAet/view
+[project2-part3-recording]: https://www.youtube.com/watch?v=2QDNldPTxmk
 
 ## 第十七週 06/14
 
